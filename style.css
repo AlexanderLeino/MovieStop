@@ -15,3 +15,13 @@
 #MovieStop-logo {
     font-size: 25px;
 }
+.card-carousel {
+    height: 600px;
+}
+#movie-card{
+    height: 200px;
+}
+.astrology{
+    height: 200px;
+    width: 200px;
+}
