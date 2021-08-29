@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#search-bar-container {
+    display: flex;
+}
+
+#magnify-glass {
+    background-color: white;
+    margin-right: 1px;
+    border: gray 1px solid;
+}
+
+#MovieStop-logo {
+    font-size: 25px;
+}

@@ -1,0 +1,1 @@
+1. The goal of the project is to find a web api for movies and to create a gamestop.com clone but for movies.
